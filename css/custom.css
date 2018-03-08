@@ -1,0 +1,22 @@
+header {
+  border-bottom: 3px solid grey;
+  padding: 20px 0px;
+}
+
+header #logo {
+  width: 100px;
+  float: left;
+}
+
+header h1 {
+  text-align: right;
+}
+
+header h2 {
+  text-align: right;
+  text-transform: uppercase
+}
+
+#history {
+  max-width: 950px;
+}
